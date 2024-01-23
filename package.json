@@ -1,0 +1,19 @@
+{
+  "name": "workout-tracker",
+  "version": "1.0.0",
+  "description": "Tool to guide you through a workout and track associated metrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesRisenmay/workout-tracker.git"
+  },
+  "author": "Wes Risenmay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WesRisenmay/workout-tracker/issues"
+  },
+  "homepage": "https://github.com/WesRisenmay/workout-tracker#readme"
+}
